@@ -1,0 +1,7 @@
+name: arb_demo
+
+sdkPath: .fvm/flutter_sdk
+
+packages:
+  - app
+  - packages/*
