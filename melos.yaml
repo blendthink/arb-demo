@@ -5,3 +5,9 @@ sdkPath: .fvm/flutter_sdk
 packages:
   - app
   - packages/*
+
+command:
+  bootstrap:
+    environment:
+      sdk: ^3.2.3
+      flutter: ^3.16.4
