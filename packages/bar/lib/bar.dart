@@ -1,7 +1,7 @@
 library bar;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:bar/gen/l10n/app_localizations.dart';
 
 class BarWidget extends StatelessWidget {
   const BarWidget({super.key});
